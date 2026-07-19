@@ -1,0 +1,12 @@
+%%Started: 28/01/2026, 10:49:03%%
+
+Dopo aver analizzato il testo fornito, ho identificato le seguenti parole chiave che descrivono in modo panoramico il contenuto:
+
+1. **Amore**: il tema centrale del testo, che descrive le esperienze e le emozioni legate all'amore.
+2. **Dolore**: il dolore e la sofferenza che accompagnano l'amore, descritti come un "mal da me stesso" e una "doglia mortale".
+3. **Follia**: la follia e la pazzia che sembrano essere legate all'amore, descritte come una "follia" che porta a una "gran follia".
+4. **Vergogna**: la vergogna e la verginità che sembrano essere legate all'amore, descritte come una "vergognoso" stato di essere.
+5. **Speranza**: la speranza e la gioia che sembrano essere legate all'amore, descritte come una "gioia" che si spera di raggiungere.
+
+Queste parole chiave danno un'idea generale del contenuto del testo, che descrive le esperienze e le emozioni legate all'amore, con un focus sulla sofferenza, la follia e la vergogna che sembrano essere legate a questa emozione.
+%%Time consumed: 5.1201085619995865 seconds %%

@@ -1,0 +1,11 @@
+%%Started: 22/01/2026, 20:11:03%%
+
+Ecco alcune parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Amore cortese:** Il testo manifesta chiaramente i topoi dell'amor cortese, con l'invito alla dama, l'esaltazione della sua bellezza e virtù, e la sofferenza del poeta in caso di rifiuto.
+*   **Lirica provenzale:** La struttura e i temi richiamano la tradizione lirica provenzale, evidente nell'invito alla danza e nella celebrazione della donna amata.
+*   **Stilnovo:** Pur con elementi provenzali, si intravedono germi di quella raffinata ricerca stilistica che caratterizzerà lo Stilnovo, in particolare nella celebrazione della "donna-angelo".
+*   **Danza:** La danza è il contesto centrale e metaforico del componimento, simbolo di armonia, gioia e possibilità di unione amorosa.
+*   **Invito:** La poesia è strutturata come un invito pressante e ripetuto alla dama a partecipare alla danza, con argomentazioni basate sulla bellezza, la virtù e la volontà divina.
+*   **Lingua antica/Volgare:** L'uso di un volgare antico, con grafie e forme lessicali arcaiche, è un elemento distintivo del testo e indica una fase iniziale della tradizione lirica italiana.
+%%Time consumed: 6.040959111996926 seconds %%

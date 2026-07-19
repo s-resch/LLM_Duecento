@@ -1,0 +1,11 @@
+%%Started: 22/01/2026, 20:11:09%%
+
+Ecco le parole chiave che descrivono il contenuto del testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Amore:** È il tema centrale e onnipresente, trattato in tutte le sue sfaccettature, dal desiderio alla sofferenza.
+*   **Dolore:** La poesia è pervasa da un senso di angoscia e tormento causato dall'amore non corrisposto o dalla sua natura contraddittoria.
+*   **Contraddizione:** Il testo esplora le antinomie dell'amore: gioia/dolore, umanità/follia, speranza/disperazione.
+*   **Servitù:** L'amore è descritto come una forma di vassallaggio, un legame che assoggetta l'amante a un "signore" capriccioso e distante.
+*   **Stilnovo:** Il testo presenta chiari elementi stilistici riconducibili alla lirica stilnovista, come l'interiorizzazione del sentimento amoroso e la sua elevazione a dimensione spirituale.
+*   **Linguaggio:** L'utilizzo di un linguaggio arcaico e di figure retoriche tipiche della poesia medievale contribuisce a creare un'atmosfera di ricercatezza e raffinatezza.
+%%Time consumed: 5.11808040500182 seconds %%

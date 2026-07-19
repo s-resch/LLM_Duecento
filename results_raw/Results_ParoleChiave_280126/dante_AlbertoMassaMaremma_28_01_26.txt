@@ -1,0 +1,9 @@
+%%Started: 28/01/2026, 09:07:13%%
+
+1. Amore
+2. Dama
+3. Mente
+4. Serenità
+5. Luce
+6. Lodisco
+%%Time consumed: 170.098385044 seconds %%

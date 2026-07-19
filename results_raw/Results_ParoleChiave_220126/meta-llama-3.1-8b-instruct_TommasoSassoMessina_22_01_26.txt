@@ -1,0 +1,12 @@
+%%Started: 22/01/2026, 20:10:18%%
+
+Sulla base del testo fornito, ho identificato le seguenti 5 parole chiave che descrivono in modo panoramico il contenuto:
+
+1. **Amore**: il tema principale del testo è l'amore, descritto come una forza che domina la vita dell'autore.
+2. **Dolore**: il testo esplora il lato doloroso dell'amore, con l'autore che descrive la sua sofferenza e la sua incapacità di liberarsi da queste emozioni.
+3. **Follia**: l'amore è descritto come una follia che prende il sopravvento sulla ragione, con l'autore che si sente condannato a subirla.
+4. **Passione**: il testo evidenzia la passione e l'impeto dell'amore, con l'autore che si sente travolto da emozioni intense e irrazionali.
+5. **Speranza**: nonostante la sofferenza e la follia dell'amore, l'autore esprime una certa speranza di poter trovare un modo per superare queste emozioni e trovare una sorta di liberazione.
+
+Queste parole chiave forniscono un quadro generale del contenuto del testo e possono essere utili per comprendere il tema e l'argomento trattati.
+%%Time consumed: 2.321295531000942 seconds %%

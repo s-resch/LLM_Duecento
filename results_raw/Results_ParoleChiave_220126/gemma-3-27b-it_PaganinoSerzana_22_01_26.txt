@@ -1,0 +1,11 @@
+%%Started: 22/01/2026, 20:10:57%%
+
+Ecco le parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Amore cortese:** Il componimento esprime chiaramente i topoi dell'amore cortese, con l'amante che soffre per il rifiuto della donna, idealizzata e inaccessibile.
+*   **Servizio d'amore:** Il concetto di "servire" la donna, di dedicarsi completamente a lei, è centrale. Il poeta si propone come servitore, ma il suo servizio non ottiene ricompensa.
+*   **Disdanno:** Il "disdegnare" della donna è l'ostacolo principale alla felicità dell'amante. Il disdanno è presentato come una "ferità" che impedisce l'amore.
+*   **Contrasto:** Il testo è costruito su un contrasto tra il desiderio del poeta e l'indifferenza (o addirittura l'ostilità) della donna amata, e tra il dolore e la speranza di una possibile grazia.
+*   **Stilnovo:** Pur non essendo un componimento stilnovistico in senso stretto, si avvertono echi di quella corrente nella concezione dell'amore e nella ricerca di una lingua raffinata.
+*   **Dolore amoroso:** Il testo è pervaso da un senso di sofferenza e angoscia derivante dall'amore non corrisposto, espresso attraverso immagini forti e un lessico legato al dolore ("affanni", "martiri", "soffrenza").
+%%Time consumed: 5.935515133998706 seconds %%

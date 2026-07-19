@@ -1,0 +1,11 @@
+%%Started: 29/01/2026, 13:02:09%%
+
+Ecco le parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Amore cortese:** Il testo è chiaramente permeato dai topoi dell'amore cortese, con l'esaltazione della donna, il tormento interiore dell'amante e il concetto di amore come forza distruttiva.
+*   **Soggettivismo lirico:** La poesia si concentra intensamente sull'esperienza interiore del poeta, esprimendo in modo vivido le sue emozioni e sensazioni.
+*   **Dolore amoroso:** Il tema centrale è il dolore causato dall'amore non corrisposto o irraggiungibile, espresso attraverso immagini di sofferenza fisica e spirituale.
+*   **Donna angelicata:** La figura femminile è idealizzata e presentata come una creatura sovrumana, quasi divina, la cui bellezza e virtù sono incomprensibili.
+*   **Stilnovo:** Il componimento presenta elementi stilistici tipici dello Stilnovo, come la musicalità, la ricercatezza del linguaggio e la sottile analisi psicologica.
+*   **Allegoria:** L'utilizzo di figure allegoriche come "Amore" e la "Canzone" che si rivolge alla donna suggerisce una dimensione simbolica e concettuale del testo.
+%%Time consumed: 6.042647600000237 seconds %%

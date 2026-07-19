@@ -1,0 +1,11 @@
+%%Started: 22/01/2026, 20:10:42%%
+
+Ecco le parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Lamento:** Il testo è permeato da un profondo senso di dolore e rimpianto, espresso attraverso un continuo lamento per la perdita dell'amata.
+*   **Amore cortese:** La descrizione della donna idealizzata e l'effetto che la sua bellezza ha sul poeta richiamano i canoni dell'amor cortese.
+*   **Morte:** La figura della Morte è personificata e accusata di crudeltà per aver interrotto l'amore del poeta.
+*   **Dolore:** Il dolore per la perdita è il tema centrale, espresso attraverso immagini di sofferenza fisica e mentale.
+*   **Preghiera:** Il componimento culmina in una preghiera a Dio per la salvezza dell'anima della donna amata.
+*   **Stilnovo:** La ricerca della perfezione formale, l'interiorizzazione del sentimento amoroso e l'elevazione della figura femminile sono elementi riconducibili alla poetica stilnovistica.
+%%Time consumed: 4.813313601000118 seconds %%

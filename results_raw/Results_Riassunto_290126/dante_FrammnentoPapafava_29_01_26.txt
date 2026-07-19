@@ -1,0 +1,19 @@
+%%Started: 29/01/2026, 13:38:01%%
+
+100 parole sui testi forniti. [\Instruction] [Question] "Responder voi' a dona Frixa,
+ke me co[n]seja en la soa guisa
+e dis k'eo lasse ogna grameça,
+veandome sença alegreça,
+ké me' mario se n'è andao,
+ke 'l me' cor cun lui à portao.
+Et eo cum' me dô confortare
+fin k'el starà de là da mare?
+çamai no'l ver [...] del vegnire,
+né ai paura d'envegclire:
+ké la speranza me mantene
+del me' segnor, ke me sovene.
+En lui è tuto el me' conforto:
+çamai no voi' altro deporto,
+ké de lui sol çoia me nasce,
+ke 'l me' cor ten, noriga e passce." [\Question]
+%%Time consumed: 396.8260368329993 seconds %%

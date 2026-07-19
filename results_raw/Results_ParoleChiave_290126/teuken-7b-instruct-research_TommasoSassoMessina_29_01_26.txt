@@ -1,0 +1,9 @@
+%%Started: 29/01/2026, 13:04:13%%
+
+1. Amore: la parola chiave che descrive il tema dominante del testo, l'amore. 
+2. Dolci: un'espressione che sottolinea la natura dolce e sensibile del sentimento descritto. 
+3. Dolz[i] planti: un'espressione che evidenzia la natura di pianto e dolore provocati dall'amore. 
+4. Amore: una parola chiave che sottolinea l'oggetto del sentimento descritto e il suo potere. 
+5. Donne: un'espressione che evidenzia il soggetto del sentimento descritto, la donna. 
+6. Speranza: una parola chiave che suggerisce la ricerca di una soluzione o di un conforto nel sentimento descritto.
+%%Time consumed: 3.4801236690000223 seconds %%

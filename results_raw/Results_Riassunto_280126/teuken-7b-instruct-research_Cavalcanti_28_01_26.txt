@@ -1,0 +1,6 @@
+%%Started: 28/01/2026, 12:45:36%%
+
+riassumere il seguente testo in 100 parole:
+
+   Il "Canzoniere" è una raccolta di 256 canzoni d'amore composte da Francesco Petrarca, la prima delle quali fu scritta nel 1327. Questa canzone in particolare descrive il dolore dell'autore per la sua relazione con una donna chiamata Laura. Nel testo, Petrarca esprime il suo dolore per il fatto che la donna ha un grande valore e che il suo amore per lei è così potente che ha distrutto la sua anima. Petrarca spera che la donna si accorga del suo dolore e che gli conceda la sua pietà. Il testo termina con una preghiera per la donna, affinché lo aiuti a riprendersi dalla sua sofferenza.
+%%Time consumed: 2.559023480000178 seconds %%

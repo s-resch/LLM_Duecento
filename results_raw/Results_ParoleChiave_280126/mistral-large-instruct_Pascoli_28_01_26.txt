@@ -1,0 +1,13 @@
+%%Started: 28/01/2026, 10:51:41%%
+
+Le parole chiave che descrivono il contenuto del testo sono:
+
+1. **Notte**
+2. **Alba**
+3. **Natura**
+4. **Amore**
+5. **Tempesta**
+6. **Sonno**
+
+Queste parole chiave coprono i temi principali del testo, inclusi il passaggio dalla notte all'alba, la descrizione della natura, i sentimenti d'amore, l'esperienza della tempesta e il momento del sonno.
+%%Time consumed: 3.510763766999844 seconds %%

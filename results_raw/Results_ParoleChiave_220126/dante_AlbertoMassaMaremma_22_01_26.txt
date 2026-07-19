@@ -1,0 +1,9 @@
+%%Started: 22/01/2026, 18:22:49%%
+
+1. Amore
+2. Donna
+3. Core
+4. Vostr'amore
+5. Carità
+6. Lumina
+%%Time consumed: 207.67873374999908 seconds %%

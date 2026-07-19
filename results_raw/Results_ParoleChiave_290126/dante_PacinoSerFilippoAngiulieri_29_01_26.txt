@@ -1,0 +1,4 @@
+%%Started: 29/01/2026, 11:21:32%%
+
+1. Morte, 2. Amore, 3. Pianto, 4. Sospiri, 5. Diletto, 6. Anch'io
+%%Time consumed: 156.957844619 seconds %%

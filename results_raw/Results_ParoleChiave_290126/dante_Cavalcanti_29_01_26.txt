@@ -1,0 +1,9 @@
+%%Started: 29/01/2026, 11:38:17%%
+
+1. Amore
+2. Donna
+3. Pianto
+4. Spirito
+5. Virtù
+6. Battaglia
+%%Time consumed: 141.05325643800006 seconds %%

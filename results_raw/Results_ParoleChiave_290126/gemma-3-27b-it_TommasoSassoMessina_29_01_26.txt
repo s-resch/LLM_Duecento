@@ -1,0 +1,11 @@
+%%Started: 29/01/2026, 13:02:04%%
+
+Ecco le parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Amore:** Tema centrale e onnipresente, declinato in tutte le sue sfaccettature, dal desiderio alla sofferenza.
+*   **Dolore:** La condizione esistenziale del poeta innamorato è pervasa da un dolore profondo e ineluttabile.
+*   **Conflitto interiore:** Il componimento esplora la tensione tra la volontà di amare e la consapevolezza del tormento che ne deriva.
+*   **Servitù amorosa:** Il poeta si definisce servo d'amore, sottolineando la perdita di autonomia e la sottomissione al sentimento.
+*   **Stilnovismo:** Il testo presenta elementi tipici della lirica stilnovistica, come l'idealizzazione della donna e l'analisi psicologica del sentimento amoroso.
+*   **Linguaggio poetico:** L'uso di un lessico ricercato, figure retoriche e un sistema di rime complesso evidenziano la cura formale del testo.
+%%Time consumed: 5.039980960999856 seconds %%

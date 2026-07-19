@@ -1,0 +1,13 @@
+%%Started: 29/01/2026, 11:35:33%%
+
+1. Amore
+2. Sentimento
+3. Malinconia
+4. Pena
+5. Ansia
+6. Tormento
+7. Gelosia
+8. Felicità
+9. Dolecce
+10. Delirio.
+%%Time consumed: 164.53751501700003 seconds %%

@@ -1,0 +1,9 @@
+%%Started: 22/01/2026, 20:12:59%%
+
+1. Amore
+2. Lamentela
+3. Dolori
+4. Speranze
+5. Disillusione
+6. Perdono
+%%Time consumed: 0.6097040989989182 seconds %%

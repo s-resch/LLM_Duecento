@@ -1,0 +1,13 @@
+%%Started: 22/01/2026, 20:12:41%%
+
+Le parole chiave che descrivono in modo panoramico il contenuto del testo sono:
+
+1. **Notte**
+2. **Alba**
+3. **Natura**
+4. **Amore**
+5. **Tempesta**
+6. **Sogno**
+
+Queste parole chiave catturano i temi principali del testo, che include descrizioni della notte e dell'alba, la presenza della natura, sentimenti d'amore, una tempesta e un senso di sogno e immaginazione.
+%%Time consumed: 3.787811160000274 seconds %%

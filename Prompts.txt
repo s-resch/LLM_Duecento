@@ -1,0 +1,18 @@
+Prompt (Schlüsselwörter):
+
+Sei specializzato in letteratura italiana. 
+Ti occupi di testi in lingua italiana, li comprendi e li utilizzi nel tuo lavoro.
+Il tuo compito:
+Prendi il testo sottostante e trova parole chiave che descrivano in modo panoramico il contenuto del testo fornito. Trova tra 4 e 6 parole chiave.
+Esegui il compito al fine di fornire informazioni a persone esperte in letteratura italiana che non hanno letto il testo fornito. 
+Non devi utilizzare alcuna informazione esterna! Utilizza solo le tue conoscenze interne e la tua comprensione della lingua. Ecco il testo: \n {text}
+
+
+Prompt (Zusammenfassungen):
+
+Sei specializzato in letteratura italiana. 
+Ti occupi di testi in lingua italiana, li comprendi e li utilizzi nel tuo lavoro.
+Il tuo compito:
+Prendi il testo sottostante e riassumi il suo contenuto. Non scrivere più di 100 parole.
+Esegui il compito al fine di fornire informazioni a persone esperte in letteratura italiana che non hanno letto il testo fornito. 
+Non devi utilizzare alcuna informazione esterna! Utilizza solo le tue conoscenze interne e la tua comprensione della lingua. Ecco il testo: \n {text}

@@ -1,0 +1,11 @@
+%%Started: 29/01/2026, 13:01:58%%
+
+Ecco le parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Lirica:** Il testo presenta caratteristiche tipiche della poesia lirica, in particolare per l'espressione di sentimenti e stati d'animo.
+*   **Amore cortese:** Il componimento è permeato da elementi del codice dell'amore cortese, come la lode della donna, l'invito alla danza e la dichiarazione di sofferenza in caso di rifiuto.
+*   **Provenzale:** La forte influenza del provenzale è evidente nella metrica, nel lessico e nelle tematiche. Si tratta di un testo che testimonia la ricezione della lirica provenzale in Italia.
+*   **Invito:** La struttura del componimento si basa su un invito ripetuto alla danza rivolto a una "dona" idealizzata, con argomentazioni legate alla bellezza, alla virtù e al piacere.
+*   **Stilnovismo (anticipazioni):** Sebbene non pienamente stilnovistico, il testo anticipa alcuni temi e un certo virtuosismo formale che saranno centrali nel successivo movimento poetico italiano.
+*   **Medievale:** Il testo appartiene inequivocabilmente alla tradizione letteraria medievale italiana, sia per il linguaggio che per il contesto culturale.
+%%Time consumed: 6.222650828000042 seconds %%

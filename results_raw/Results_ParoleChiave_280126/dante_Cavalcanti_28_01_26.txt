@@ -1,0 +1,9 @@
+%%Started: 28/01/2026, 09:27:31%%
+
+1. Amore
+2. Madonna
+3. Virtù
+4. Paura
+5. Valore
+6. Morte
+%%Time consumed: 143.98042016900013 seconds %%

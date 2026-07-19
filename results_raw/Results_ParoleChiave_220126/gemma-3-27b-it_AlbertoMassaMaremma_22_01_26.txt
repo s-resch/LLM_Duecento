@@ -1,0 +1,11 @@
+%%Started: 22/01/2026, 20:10:32%%
+
+Ecco le parole chiave che descrivono il contenuto del testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Amore cortese:** Il componimento presenta i tratti tipici del linguaggio e della tematica dell'amor cortese, con l'esaltazione della donna e la sofferenza amorosa del poeta.
+*   **Stilnovo:** La lirica mostra elementi stilistici e concettuali riconducibili allo Stilnovo, come la lode della donna angelicata, l'interiorizzazione del sentimento amoroso e la raffinatezza del linguaggio.
+*   **Donna angelicata:** La figura femminile è idealizzata e posta su un piano superiore, quasi divino, attraverso paragoni con dee e la sua stessa luminosità.
+*   **Sofferenza amorosa:** Il poeta esprime il dolore e la pena causati dall'amore non corrisposto o comunque irraggiungibile, descrivendo l'amore come una forza che lo spinge e lo consuma.
+*   **Immagini luminose:** L'uso di metafore legate alla luce (lumera, chiaritate, spera) è ricorrente e contribuisce a creare un'atmosfera di idealizzazione e trascendenza.
+*   **Servizio d'amore:** Il componimento riflette la dinamica del servizio d'amore, in cui il poeta si pone come vassallo della donna amata, offrendo il proprio cuore e la propria devozione.
+%%Time consumed: 9.2391324909986 seconds %%

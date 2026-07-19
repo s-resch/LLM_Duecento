@@ -1,0 +1,9 @@
+%%Started: 29/01/2026, 13:04:10%%
+
+1. Amore
+2. Servire
+3. Disdegno
+4. Afffanni
+5. Partire
+6. Mercè
+%%Time consumed: 1.4367743329994482 seconds %%

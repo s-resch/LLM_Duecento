@@ -1,0 +1,5 @@
+%%Started: 28/01/2026, 11:16:07%%
+
+
+Estrai la porzione di testo dal contesto per rispondere alla domanda.
+[Context] Il governo ha anche cercato di sviluppare il paese attraverso grandi progetti infrastrutturali, come il Canale di Suez, che è stato completato nel 1869 da un' ampia forza di lavoro egiziana sotto la guida dell' ingegnere francese Auguste Mariette. La nuova canale ha contribuito a migliorare l' economia del paese, ma anche ad aggravare il problema della povertà rurale, dato che molti contadini sono stati costretti a lasciare le loro terre per lavorare su progetti di costruzione. Nasser ha iniziato la costruzione della diga di Assuan nel 1960 per preservare l' agricoltura egiziana dal fallimento dovuto allo sfruttamento dell' acqua del Nilo da parte dello stato sudanese e dell' Egitto. Questo progetto ha richiesto la sfollamento di oltre 100.000 persone dalle loro terre ancestrali intorno alla diga, con conseguente protesta pubblica. [\Context] [Question] Chi è stato il leader del progetto del Canale di Suez? [\Question] %%Time consumed: 278.9077225840001 seconds %%

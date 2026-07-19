@@ -1,0 +1,12 @@
+%%Started: 22/01/2026, 20:11:36%%
+
+Dopo aver analizzato il testo, ho individuato 5 parole chiave che descrivono in modo panoramico il contenuto del testo:
+
+1. **Amore**: Il testo parla dell'amore tra due persone, un uomo e una donna, e descrive la profondità dei loro sentimenti reciproci.
+2. **Separazione**: La donna è separata dal suo amato, che si trova lontano, e questo provoca in lei una grande tristezza e nostalgia.
+3. **Speranza**: La donna ha speranza di essere riunita con il suo amato e di poterlo rivedere presto.
+4. **Fedeltà**: Il testo enfatizza la fedeltà e la lealtà dell'amore tra i due protagonisti, che si sostengono e si amano reciprocamente.
+5. **Passione**: Il testo descrive la passione e l'intensità dei sentimenti tra i due amanti, che si esprimono attraverso sospiri, lacrime e preghiere.
+
+Queste parole chiave offrono una visione d'insieme del contenuto del testo, che si concentra sull'amore, la separazione, la speranza, la fedeltà e la passione tra due persone.
+%%Time consumed: 7.776201902997855 seconds %%

@@ -1,0 +1,11 @@
+%%Started: 29/01/2026, 13:01:41%%
+
+Ecco 6 parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+1.  **Amore cortese:** Il testo presenta elementi tipici dell'amore cortese medievale, come l'adorazione della donna, la sofferenza dell'amante, l'attesa e la speranza di un ricambio.
+2.  **Lirica popolare:** Il componimento mostra caratteristiche della lirica popolare, specialmente nella forma metrica e nella lingua (volgare settentrionale arcaico).
+3.  **Attesa:** Il tema dell'attesa è centrale, sia per il ritorno del marito/pellegrino, sia per il desiderio di un amore corrisposto.
+4.  **Fedeltà:** La fedeltà della donna al marito assente è un elemento chiave, così come la speranza del pellegrino in un amore duraturo.
+5.  **Devozione:** Sia la donna che l'uomo esprimono una profonda devozione, la prima al marito, il secondo alla donna amata.
+6.  **Speranza:** La speranza, nonostante la sofferenza e la lontananza, è un filo conduttore che permea l'intero testo.
+%%Time consumed: 5.429044520000389 seconds %%

@@ -1,0 +1,11 @@
+%%Started: 22/01/2026, 20:11:14%%
+
+Ecco le parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+*   **Amore cortese:** Il testo è permeato dai topoi tipici dell'amor cortese, come il tormento amoroso, la donna angelicata e irraggiungibile, e l'effetto sovraumano della bellezza femminile.
+*   **Stilnovo:** La lirica presenta elementi stilnovistici evidenti, come la lode della donna e l'interiorizzazione del sentimento amoroso, con un'attenzione particolare alla psicologia del poeta.
+*   **Dolore amoroso:** Il tema centrale è il dolore intenso causato dall'amore non corrisposto, espresso attraverso immagini di sofferenza fisica e spirituale.
+*   **Sbigottimento:** Lo stato d'animo del poeta è caratterizzato da uno sbigottimento profondo, una sorta di smarrimento interiore causato dalla potenza della bellezza della donna amata.
+*   **Anima/Core:** L'attenzione è focalizzata sul conflitto interiore tra anima e cuore, dilaniati dalla passione amorosa e dal senso di inadeguatezza.
+*   **Canzone:** La forma metrica del componimento, la canzone, è un elemento distintivo della tradizione lirica italiana e stilnovistica.
+%%Time consumed: 5.222344802998123 seconds %%

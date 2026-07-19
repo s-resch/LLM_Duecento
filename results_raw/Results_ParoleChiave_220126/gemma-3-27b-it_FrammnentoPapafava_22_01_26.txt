@@ -1,0 +1,11 @@
+%%Started: 22/01/2026, 20:10:46%%
+
+Ecco 6 parole chiave che descrivono il contenuto del testo, pensate per un pubblico di esperti di letteratura italiana:
+
+1.  **Amore cortese:** Il testo presenta elementi tipici dell'amore cortese, come l'adorazione della donna, la sofferenza per la lontananza, l'attesa e la speranza di un ricongiungimento.
+2.  **Lontananza:** Il tema della separazione fisica tra gli amanti (il "mario" in "Paganìa") è centrale e genera angoscia e desiderio.
+3.  **Speranza:** Nonostante la sofferenza, la speranza di un ritorno e di una ricompensa amorosa è un motore costante per la donna.
+4.  **Preghiera:** La preghiera a Dio per la salvezza del marito e la sua vittoria è un elemento significativo che sottolinea la dimensione religiosa del sentimento amoroso.
+5.  **Fedeltà:** La fedeltà della donna al marito assente è un valore fondamentale, espressa attraverso l'attesa e la rinuncia ai piaceri mondani.
+6.  **Linguaggio volgare antico:** Il testo è un esempio di lingua volgare antica, con caratteristiche fonetiche e morfologiche specifiche, che lo rendono rilevante per lo studio della storia della lingua italiana.
+%%Time consumed: 5.4279902080015745 seconds %%

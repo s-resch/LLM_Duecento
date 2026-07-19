@@ -1,0 +1,12 @@
+%%Started: 28/01/2026, 09:24:47%%
+
+1. Amore
+2. Dolezza
+3. Anime dolci
+4. Tormento
+5. Pena
+6. Allegria
+7. Voglia
+8. Gelosia
+9. Follia
+%%Time consumed: 164.50116798499994 seconds %%

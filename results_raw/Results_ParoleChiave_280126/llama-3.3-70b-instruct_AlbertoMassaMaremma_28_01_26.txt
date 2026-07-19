@@ -1,0 +1,12 @@
+%%Started: 28/01/2026, 10:50:20%%
+
+Dopo aver analizzato il testo, ho identificato le seguenti 5 parole chiave che descrivono in modo panoramico il contenuto del testo:
+
+1. **Amore**: il tema principale del testo, che descrive l'amore dell'autore per la donna amata.
+2. **Donna**: la figura femminile che è al centro del testo, descritta come unica e insuperabile.
+3. **Luce**: la luce è un simbolo ricorrente nel testo, che rappresenta la guida e la speranza che l'autore trova nell'amore della donna.
+4. **Speranza**: la speranza è un'altra tematica importante del testo, che descrive l'attesa e la fiducia dell'autore di poter essere ricambiato dall'amore della donna.
+5. **Amore cortese**: il testo è scritto in stile di amore cortese, che era un genere letterario tipico della letteratura medievale italiana, caratterizzato da un linguaggio raffinato e da un'attitudine di adorazione e devozione nei confronti della donna amata.
+
+Queste parole chiave offrono un'idea generale del contenuto del testo e possono essere utili per persone esperte in letteratura italiana che non hanno letto il testo.
+%%Time consumed: 8.089701388000321 seconds %%

@@ -1,0 +1,9 @@
+%%Started: 22/01/2026, 20:13:05%%
+
+1. Amore: la parola chiave che descrive il tema principale del testo, che ruota intorno all'amore.
+2. Sospiri: un'altra parola chiave che evidenzia il sentimento di nostalgia e dolore espresso nel testo.
+3. Dolci: questa parola chiave rappresenta l'amore come una sensazione dolce e piacevole.
+4. Pianti: la tristezza e la sofferenza sono rappresentate da questa parola chiave.
+5. Natura: questa parola chiave evidenzia la profondità e la complessità del sentimento amoroso.
+6. Dolore: questa parola chiave descrive il dolore e il tormento che l'amore può causare.
+%%Time consumed: 2.357767467998201 seconds %%

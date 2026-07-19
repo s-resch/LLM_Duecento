@@ -1,0 +1,4 @@
+%%Started: 22/01/2026, 15:09:08%%
+
+100 parole o meno in italiano. [\Instruction] [Question]  [\Question]
+%%Time consumed: 301.0922483659997 seconds %%

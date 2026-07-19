@@ -1,0 +1,12 @@
+%%Started: 29/01/2026, 13:03:10%%
+
+Sulla base del testo fornito, posso identificare le seguenti 5 parole chiave che descrivono in modo panoramico il contenuto del testo:
+
+1. **Amore**: Il tema centrale del testo, che esplora le emozioni e le sensazioni associate all'amore.
+2. **Sofferenza**: La sofferenza e il dolore che l'autore prova a causa dell'amore non corrisposto o impossibile.
+3. **Passione**: La passione e l'intensità con cui l'autore vive l'amore, descritta come una forza potente e incontrollabile.
+4. **Follia**: La follia e l'irrazionalità che l'amore può portare, facendo perdere all'autore il controllo di sé stesso.
+5. **Speranza**: La speranza e il desiderio che l'autore nutre di poter superare la sofferenza e trovare un modo per vivere l'amore in modo più sereno.
+
+Queste parole chiave offrono una visione d'insieme del testo e possono essere utili per comprendere il tema e le emozioni esplorate nel testo.
+%%Time consumed: 7.1688003469998876 seconds %%

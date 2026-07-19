@@ -1,0 +1,12 @@
+%%Started: 29/01/2026, 13:02:56%%
+
+Dopo aver analizzato il testo, ho identificato le seguenti parole chiave che descrivono in modo panoramico il contenuto del testo:
+
+1. **Amore**: il testo è permeato di sentimenti amorosi e di inviti a partecipare a una danza per celebrare l'amore.
+2. **Danza**: la danza è il tema centrale del testo, con ripetuti inviti a partecipare e a mostrare la propria allegria.
+3. **Allegria**: il testo esprime una sensazione di gioia e allegria, invitando i lettori a partecipare alla danza e a condividere la felicità.
+4. **Bellezza**: il testo descrive la bellezza della donna amata e invita i lettori a contemplarla e a partecipare alla danza per celebrarla.
+5. **Invito**: il testo è un invito a partecipare a una danza e a condividere la gioia e l'allegria con gli altri.
+
+Queste parole chiave offrono una visione d'insieme del contenuto del testo, che è caratterizzato da un'atmosfera di amore, allegria e celebrazione della bellezza.
+%%Time consumed: 13.720574836000196 seconds %%

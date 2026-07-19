@@ -1,0 +1,11 @@
+%%Started: 28/01/2026, 10:49:46%%
+
+Ecco 6 parole chiave che descrivono il testo, pensate per un pubblico di esperti di letteratura italiana:
+
+1.  **Amore cortese:** Il testo presenta molti dei *topoi* tipici dell'amore cortese, come la lusinghiera (dona Frixa), il vassallaggio amoroso del pellegrino, la sofferenza per l'assenza dell'amato, e la centralità della donna come fonte di gioia e virtù.
+2.  **Lirica popolare:** La lingua e lo stile del testo (uso di forme dialettali, ripetizioni, espressioni dirette) suggeriscono una forte connessione con la tradizione lirica popolare, probabilmente di area settentrionale.
+3.  **Attesa:** Il tema dell'attesa è dominante: l'attesa del ritorno del marito/pellegrino, l'attesa di una ricambiazione amorosa, l'attesa di un lieto fine.
+4.  **Fedeltà:** La fedeltà coniugale e amorosa è un valore centrale, espresso sia nel comportamento della donna che nella speranza del pellegrino.
+5.  **Pellegrinaggio:** La figura del pellegrino (il "mario") e il suo viaggio in "Paganìa" (terra straniera) introducono un elemento di distanza e difficoltà nell'amore.
+6.  **Speranza:** Nonostante le sofferenze e le incertezze, la speranza è il sentimento che guida i personaggi e permette loro di sopportare la prova dell'amore.
+%%Time consumed: 8.189124229999834 seconds %%

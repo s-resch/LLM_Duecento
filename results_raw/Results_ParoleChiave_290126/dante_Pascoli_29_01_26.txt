@@ -1,0 +1,9 @@
+%%Started: 29/01/2026, 11:28:57%%
+
+1. sole
+2. notte
+3. luce
+4. ronzii d'api
+5. ruscelli
+6. alba
+%%Time consumed: 100.27663382499998 seconds %%
